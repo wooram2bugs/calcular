@@ -4,5 +4,5 @@ int add(int, int);
 
 int main(int argc, char* argv[])
 {
-	int a, b, c;
+	int num1, num2, num3;
 }
